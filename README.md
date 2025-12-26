@@ -3,6 +3,10 @@ Personal portfolio website built using HTML, CSS, and JavaScript to showcase my 
 # Personal Portfolio Website
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript.
+## Live Demo
+(https://skuser2005.github.io/portfolio/)
+
+
 ## BLUEPRINT
 
 ### Home Section
@@ -12,7 +16,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 <img width="1895" height="895" alt="Screenshot 2025-12-26 185741" src="https://github.com/user-attachments/assets/a0edfad9-c62d-4c3d-9c48-bcf5ef8c90bf" />
 
 
-### Education & Interests
+### Skills
 <img width="1897" height="892" alt="Screenshot 2025-12-26 185953" src="https://github.com/user-attachments/assets/227fddac-71b0-4602-9e9c-dd9dd8f86d61" />
 
 ### Connect me
@@ -30,8 +34,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## Live Demo
-https://your-username.github.io/portfolio/
+
 
 ## Author
 Sonu Shah  
@@ -43,10 +46,8 @@ B.Tech Computer Science Engineering Student
 
 portfolio/
 ├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
+style.css
+script.js
 ├── screenshots/
 │ └── *.png
 └── README.md
