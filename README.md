@@ -216,20 +216,6 @@ I built and deployed my personal portfolio using HTML, CSS, and JavaScript, and 
 Sonu Shah
 B.Tech Computer Science Engineering Student
 
-yaml
-Copy code
-
----
-
-If you want, next I can help you:
-- Add a **Projects section**
-- Improve UI professionally
-- Make this portfolio **resume-optimized**
-- Create a **GitHub profile README**
-
-Just tell me what to do next.
-
-
 
 
 
