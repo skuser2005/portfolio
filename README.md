@@ -7,7 +7,6 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 (https://skuser2005.github.io/portfolio/)
 
 
-## BLUEPRINT
 
 ### Home Section
 <img width="1894" height="899" alt="Screenshot 2025-12-26 185624" src="https://github.com/user-attachments/assets/2fabb487-b1ad-4b10-bbe3-d92d8a3047f6" />
